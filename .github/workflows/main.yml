@@ -21,4 +21,4 @@ jobs:
           git config user.email kisunk4546@gmail.com
           git add -A .
           git commit -m "generated"
-          git push git@github.com:chundae/chundae.git
+          git push 
