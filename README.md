@@ -26,7 +26,8 @@
 ### Study
 ![js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![js](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 </div>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
