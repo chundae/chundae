@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chundae&hide=css,html&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+
 
 
 ### Skill
@@ -29,8 +29,8 @@
 ![js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![js](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
+![](./profile-3d-contrib/profile-gitblock.svg)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
 
 
