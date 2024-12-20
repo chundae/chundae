@@ -9,6 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chundae&hide=css,html&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=Chunbae)](https://velog.io/@Chunbae)
 
 ### Skill
 
